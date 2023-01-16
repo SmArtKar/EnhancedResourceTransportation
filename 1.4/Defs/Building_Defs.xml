@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ThingDef ParentName="BuildingBase">
+        <defName>ConveyorBelt</defName>
+        <label>conveyor belt</label>
+        <description>A vat of fluid which can gestate an embryo or accelerate a child's growth.\n\nWhile growing or gestating, the vat must be fed with a constant supply of nutrition to provide the feedstock for growth. Gestating an embryo takes twice the nutrition of accelerating a child's growth.\n\nEmbryos are gestated for 9 days before a baby is formed. There is a risk of health complications.\n\nChild growth can only be accelerated up to age 18, but not beyond. While growing, a child's skills will slowly increase. Children raised in growth vats will have lower skills and gain fewer passions than normal.\n\nThe device uses chemical injections, electrical stimulation, and simple mechanite treatments to push the body to grow. Growth vats are often used to quickly manufacture engineered workers or warriors.</description>
+        <thingClass>EnhancedResourceTransportation.ConveyorBelt</thingClass>
+        <containedPawnsSelectable>true</containedPawnsSelectable>
+        <tickerType>Normal</tickerType>
+        <graphicData>
+			<texPath>Things/Building/Conveyor</texPath>
+			<graphicClass>EnhancedResourceTransportation.Graphic_Conveyor</graphicClass>
+			<drawSize>(2,2)</drawSize>
+			<shadowData>
+				<volume>(0.85, 0.3, 1.7)</volume>
+			</shadowData>
+        </graphicData>
+        <castEdgeShadows>true</castEdgeShadows>
+        <defaultPlacingRot>North</defaultPlacingRot>
+        <size>(1,1)</size>
+        <statBases>
+			<MaxHitPoints>500</MaxHitPoints>
+			<WorkToBuild>8000</WorkToBuild>
+			<Mass>30</Mass>
+			<Flammability>0.5</Flammability>
+        </statBases>
+        <costList>
+			<Steel>150</Steel>
+			<ComponentIndustrial>4</ComponentIndustrial>
+        </costList>
+        <altitudeLayer>Building</altitudeLayer>
+        <passability>PassThroughOnly</passability>
+        <pathCost>42</pathCost>
+        <blockWind>true</blockWind>
+        <drawerType>MapMeshAndRealTime</drawerType>
+        <fillPercent>0.5</fillPercent>
+        <canOverlapZones>false</canOverlapZones>
+        <designationCategory>Biotech</designationCategory>
+        <uiOrder>2200</uiOrder>
+        <inspectorTabs>
+			<li>ITab_BiosculpterNutritionStorage</li>
+			<li>ITab_Genes</li>
+        </inspectorTabs>
+        <building>
+			<blueprintClass>EnhancedResourceTransportation.Blueprint_Conveyor</blueprintClass>
+			<buildingTags>
+				<li>Biotech</li>
+			</buildingTags>
+        </building>
+        <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+        <modExtensions>
+            <li Class="EnhancedResourceTransportation.ConveyorExtension">
+
+            </li>
+        </modExtensions>
+      </ThingDef>
+</Defs>

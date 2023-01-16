@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kR9hPBufEm6U3jegmwSmVWQ1yjZgMjuFeJlUsEWxnJ/yw1jzsN0Ojg7HpP9Mg0swc0IEsyykEx8mEE512TUvYA==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\EnhancedResourceTransportation\\Source\\EnhancedResourceTransportation\\EnhancedResourceTransportation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artemy\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3580\\krafs.rimworld.ref.1.4.3580.nupkg.sha512"
+  ],
+  "logs": []
+}

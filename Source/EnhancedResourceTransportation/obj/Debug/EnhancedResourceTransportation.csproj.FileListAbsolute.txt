@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\EnhancedResourceTransportation\Source\EnhancedResourceTransportation\bin\Debug\EnhancedResourceTransportation.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\EnhancedResourceTransportation\Source\EnhancedResourceTransportation\bin\Debug\EnhancedResourceTransportation.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\EnhancedResourceTransportation\Source\EnhancedResourceTransportation\obj\Debug\EnhancedResourceTransportation.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\EnhancedResourceTransportation\Source\EnhancedResourceTransportation\obj\Debug\EnhancedResourceTransportation.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\EnhancedResourceTransportation\Source\EnhancedResourceTransportation\obj\Debug\EnhancedResourceTransportation.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\EnhancedResourceTransportation\Source\EnhancedResourceTransportation\obj\Debug\EnhancedResourceTransportation.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\EnhancedResourceTransportation\1.4\Assemblies\EnhancedResourceTransportation.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\EnhancedResourceTransportation\1.4\Assemblies\EnhancedResourceTransportation.pdb
